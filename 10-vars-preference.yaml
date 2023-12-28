@@ -9,7 +9,7 @@
   - name: WISHES
     prompt: Please enter your Wishes
     private: false # user can't see what they are entering
-   vars:
+  vars:
     PERSON: "Siva from PLAY"
     WISHES: "Morning from PLAY"
   tasks:
